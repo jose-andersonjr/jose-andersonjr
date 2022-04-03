@@ -21,7 +21,7 @@ Buscando novos desafios e formas de resolver cada necessidade dos meus e dos seu
 Graduando do 7° semestre de Ciência da Computação.
 Atualmente trabalho com Python e Django Web Framework, utilizando HTML5, CSS3 e JS em meus projetos. 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/jose-andersonjr">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-andersonjr&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jose-andersonjr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
