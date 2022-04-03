@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Olá, 
-## Eu sou José Anderson!🤓
-# Web Developer! 👨‍💻💻
+### Olá, Eu sou José Anderson!🤓
+# Web Developer em evolução! 👨‍💻💻
 Buscando novos desafios e formas de resolve cada necessidade que os meu projetos têm!
 Graduando do 7° semestre de Ciência da Computação.
 Atualmente trabalho com Python e Django Web Framework, utilizando HTML5, CSS3 e JS em meus projetos. 
