@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Olá, 
- Eu sou José Anderson!🤓�
+## Eu sou José Anderson!🤓
 # Web Developer! 👨‍💻💻
 Buscando novos desafios e formas de resolve cada necessidade que os meu projetos têm!
 Graduando do 7° semestre de Ciência da Computação.
