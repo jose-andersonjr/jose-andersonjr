@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Olá, me chamo José Anderson!🤓
-# Eai, Devs? tranquilos?
-# Web Developer em crescimento! 👨‍💻💻
+Eai, Devs? tranquilos?
+##### Web Developer em crescimento! 👨‍💻💻
 Buscando novos desafios e formas de resolve cada necessidade que os meu projetos têm!
 Graduando do 7° semestre de Ciência da Computação.
 Atualmente trabalho com Python e Django Web Framework, utilizando HTML5, CSS3 e JS em meus projetos. 
