@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Eai, Devs? tranquilos?
 ##### Web Developer em crescimento! 👨‍💻💻
 Buscando novos desafios e formas de resolver cada necessidade dos meus e dos seus projetos!
-Graduando do 7° semestre de Ciência da Computação.
+Graduando do 8° semestre de Ciência da Computação.
 ##### Também possuo vasto conhecimento em Redes de Computadores😃
  
 ## Ferramentas e Tecnologias
