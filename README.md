@@ -29,7 +29,9 @@ Graduando do 8° semestre de Ciência da Computação.
            
           
 ## Estou aprendendo    
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" width="50" height="50"/>
      
 <div>
 <a href="https://github.com/jose-andersonjr">
