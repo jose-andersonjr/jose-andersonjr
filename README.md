@@ -8,16 +8,16 @@ Graduando do 8° semestre de Ciência da Computação.
  
 ## Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="50" height="50" alt="Ubuntu"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/> <img 
-src="https://img.icons8.com/ios-filled/50/000000/jquery.png" width="50" height="50" alt="JQuery"/> <img 
-src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" width="50" height="50" alt="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="50" height="50" alt="Django"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="50" height="50" alt="Bootstrap"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="50" height="50" alt="Arduino"/>
+src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" width="50" height="50" alt="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="50" height="50" alt="Django"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="50" height="50" alt="Bootstrap"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/> <img 
+src="https://img.icons8.com/ios-filled/50/000000/jquery.png" width="50" height="50" alt="JQuery"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="50" height="50" alt="Arduino"/>
           
           
           
            
           
 ## Estou aprendendo    
-<img src="https://img.icons8.com/color/48/null/spring-logo.png" width="50" height="50" alt="Springboot"/>
-<img src="https://img.icons8.com/officel/16/null/react.png" width="50" height="50" alt="React"/>
+<img src="https://img.icons8.com/color/48/null/spring-logo.png" width="50" height="50" alt="Springboot"/> <img 
+src="https://img.icons8.com/officel/80/null/react.png" width="50" height="50" alt="React"/>
      
 <div>
 <a href="https://github.com/jose-andersonjr">
